@@ -1,1 +1,1 @@
-charset_normalizer
+flask_cors
